@@ -1,5 +1,5 @@
 # Ascent-Task
-An simple project to perform the CURD operation using dummy data
+An project to perform the CURD operation using dummy data
 
 Steps to run project:
 
